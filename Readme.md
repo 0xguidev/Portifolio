@@ -37,3 +37,6 @@ Projeto de Testes automatizados com React Testing Library - [react testing libra
 Projeto de Gerenciamento de estado com Redux - [trybe wallet](https://github.com/0xguidev/trybewallet)
 
 Projeto de Context API e React Hooks - [starwars planets](https://github.com/0xguidev/starwars-planets-search)
+
+## TRYBE - Back end: [ banco de dados ]
+Projeto de introdução à mysql - [Mysql all for one](https://github.com/0xguidev/mysql-all-for-one)
