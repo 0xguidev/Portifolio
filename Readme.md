@@ -40,15 +40,28 @@ Projeto de Context API e React Hooks - [starwars planets](https://github.com/0xg
 
 ## TRYBE - Back end: [ banco de dados ]
 Projeto de introdução à mysql - [Mysql all for one](https://github.com/0xguidev/mysql-all-for-one)
+
 Projeto de comandos Mysql: [Vocabulary booster](https://github.com/0xguidev/vocabulary-booster)
+
 Projeto de Views e Triggers: [One-for-all](https://github.com/0xguidev/one-for-all)
+
 Projeto de introdução a mongoDB: [Data Flights](https://github.com/0xguidev/data-flights)
+
 Projeto de operadores mongoDb: [Commerce](https://github.com/0xguidev/commerce)
+
 Projeto de buscas complexas e pipelines: [Aggregations](https://github.com/0xguidev/aggregation)
+
 Projeto de introdução a NodeJs com Express: [Talker Manager](https://github.com/0xguidev/talker-manager)
+
 Projeto de MSC com nodeJs, Express e mongoDB, fazendo API RESTFUL: [Store Manager](https://github.com/0xguidev/store-manager)
+
 Projeto de Autenticação com JWT, upload com Multer e API RESTFULL: [CookMaster](https://github.com/0xguidev/cookmaster)
+
 Projeto de Deploy com Heroku e gerenciamento de processos com PM2: [Stranger Thinks - FrontEnd](https://github.com/0xguidev/stranger-thinks-frontend)
+
 Projeto de Deploy com Heroku e gerenciamento de processos com PM2: [Stranger Thinks - BackEnd](https://github.com/0xguidev/stranger-thinks-backend)
+
 Projeto de ORM com Sequelize: [Blogs Api](https://github.com/0xguidev/Blogs_api)
+
 Projeto de arquitetura MVC e Socket: [Web Chat](https://github.com/0xguidev/Blogs_api)
+
