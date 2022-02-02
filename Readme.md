@@ -57,6 +57,8 @@ Projeto de MSC com nodeJs, Express e mongoDB, fazendo API RESTFUL: [Store Manage
 
 Projeto de Autenticação com JWT, upload com Multer e API RESTFULL: [CookMaster](https://github.com/0xguidev/cookmaster)
 
+### 2022
+
 Projeto de Deploy com Heroku e gerenciamento de processos com PM2: [Stranger Thinks - FrontEnd](https://github.com/0xguidev/stranger-thinks-frontend)
 
 Projeto de Deploy com Heroku e gerenciamento de processos com PM2: [Stranger Thinks - BackEnd](https://github.com/0xguidev/stranger-thinks-backend)
