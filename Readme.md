@@ -38,7 +38,7 @@ Projeto de Gerenciamento de estado com Redux - [trybe wallet](https://github.com
 
 Projeto de Context API e React Hooks - [starwars planets](https://github.com/0xguidev/starwars-planets-search)
 
-## TRYBE - Back end: [ banco de dados ]
+## TRYBE - Back end: [MYSQL e MONGODB, APIs REST, ORM, DEPLOY, MSC, MVC, SOCKETS, GERENCIAMENTO DE PROCESSOS ]
 Projeto de introdução à mysql - [Mysql all for one](https://github.com/0xguidev/mysql-all-for-one)
 
 Projeto de comandos Mysql: [Vocabulary booster](https://github.com/0xguidev/vocabulary-booster)
