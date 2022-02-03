@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu portifolio
+# Seja bem-vindo ao meu portfolio
 
 Esse documento é um guia de referencia aos meus portifólio pessoais
 
